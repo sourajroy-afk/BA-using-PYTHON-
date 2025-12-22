@@ -19,3 +19,18 @@ The main objectives of this project are:
 4. To develop a predictive model to classify suppliers into different risk categories.
 5. To evaluate the performance of the predictive model using appropriate metrics.
 6. To provide managerial insights and recommendations to reduce supplier-related risks.
+---
+
+## Dataset Description
+The dataset used in this project represents supplier performance and operational risk indicators. Each record corresponds to a supplier and contains metrics related to delivery performance, quality, cost stability, and payment behavior.
+
+### Dataset Attributes
+- **Supplier_ID**: Unique identification number for each supplier  
+- **On_Time_Delivery (%)**: Percentage of deliveries made on time  
+- **Lead_Time_Days**: Average number of days taken to deliver  
+- **Lead_Time_Variance**: Variability in delivery lead time  
+- **Defect_Rate (%)**: Percentage of defective items supplied  
+- **Order_Fill_Rate (%)**: Percentage of orders fulfilled completely  
+- **Cost_Variance (%)**: Variation in supply cost  
+- **Payment_Delay_Days**: Average delay in payment  
+- **Risk_Level**: Supplier risk category (Low, Medium, High)
