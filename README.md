@@ -1,4 +1,3 @@
-# BA-using-PYTHON-
 ## Project Title
 Supplier Risk Analysis and Prediction using Python
 
