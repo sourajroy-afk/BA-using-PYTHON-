@@ -34,3 +34,23 @@ The dataset used in this project represents supplier performance and operational
 - **Cost_Variance (%)**: Variation in supply cost  
 - **Payment_Delay_Days**: Average delay in payment  
 - **Risk_Level**: Supplier risk category (Low, Medium, High)
+
+
+## Tools and Technologies Used
+- Python  
+- Jupyter Notebook / Google Colab  
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+
+---
+
+## Key Outcomes
+- Identification of critical supplier risk indicators  
+- Visual insights into supplier performance patterns  
+- Development of an explainable predictive model for supplier risk classification  
+- Actionable managerial insights for proactive risk mitigation  
+
+---
+
+## Conclusion
+This project demonstrates how data-driven analysis can support proactive supplier risk management. By combining exploratory analysis with predictive modeling, organizations can better identify high-risk suppliers and take preventive actions to reduce supply chain disruptions.
+
